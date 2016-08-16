@@ -1,4 +1,3 @@
-layout_spectrum: 0.11989326355978847
 typography_spectrum: 0.666841494385153
 color:
   brandStrength: 0.8781505778897554
@@ -11,4 +10,6 @@ color:
     - '#F5F5F5'
     - '#353535'
     - '#A1A1A1'
+layout_spectrum: 0.11989326355978847
 name: Quality Control SLC
+title: Quality Control
