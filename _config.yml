@@ -6,9 +6,9 @@ color:
   saturation: 0.9464051055256277
   rhythmicContrast: 0.5186856861691922
   brandColors:
-    - '#000000'
-    - '#BE000A'
-    - '#F5F5F5'
-    - '#353535'
-    - '#A1A1A1'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Quality Control SLC
